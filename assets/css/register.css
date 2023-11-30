@@ -1,0 +1,14 @@
+.radio-buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.button-gender {
+  display: flex;
+  
+}
+
+.button-gender .button-gender input[type="radio"] {
+  margin-right: 5px;
+}
